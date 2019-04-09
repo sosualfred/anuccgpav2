@@ -9,7 +9,7 @@ import { HomePage } from '../home/home';
 })
 export class TabsPage {
 
-  tab1Root = HomePage;
+  home = HomePage;
   tab2Root = AboutPage;
   tab3Root = ContactPage;
 
